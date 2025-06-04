@@ -18,6 +18,7 @@
 ![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-593D88?style=flat&logo=redux&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-MaterialUI-0081CB?style=flat&logo=mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap)
+![Vite](https://vitejs.dev/)
 
 ---
 
