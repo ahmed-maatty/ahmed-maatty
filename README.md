@@ -8,44 +8,97 @@
 ## 💼 Skills  
 
 ### 🧩 Front-End Development  
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,js,ts,react,nextjs,redux,vite" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sass" width="50"/><br>SASS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=materialui" width="50"/><br>Material UI
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🛠️ Back-End Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />  
-⚡ Pug • Postman  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 🗄️ Databases  
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />  
-⚡ Mongoose • Sequelize • TypeORM  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="50"/><br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+---
 
 ### 👨‍💻 Programming Languages  
-<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts" />  
-⚡ SQL  
-
-### 🚀 Tools & Technologies  
-<img src="https://skillicons.dev/icons?i=nodejs,git,postman" />  
-⚡ Pug  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="50"/><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript
+    </td>
+  </tr>
+</table>
 
 ---
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMaatty&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedMaatty&theme=radical)  
-
----
-
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AhmedMaatty" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 </div>
