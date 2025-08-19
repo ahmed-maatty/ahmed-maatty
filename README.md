@@ -1,48 +1,41 @@
-Ahmed Maatty - أحمد معاطي
-JavaScript Developer | Passionate about Building Scalable Web Applications
-💼 Skills
-🧩 Front-End Development
-HTML5
-CSS3
-SCSS
-Bootstrap
-Material UI
-JavaScript
-TypeScript
-Redux
-Redux Toolkit
-Vite
-React
-Next.js
+# Ahmed Maatty - أحمد معاطي  
+**JavaScript Developer | Passionate about Building Scalable Web Applications** 🚀  
 
-🛠️ Back-End Development
-NestJS
-Express.js
-Node.js
-Pug
-Postman
+---
 
-🗄️ Databases
-MongoDB
-PostgreSQL
-Mongoose
-Sequelize
-TypeORM
+## 💼 Skills  
 
-👨‍💻 Programming Languages
-C++
-C#
-Python
-JavaScript
-TypeScript
-SQL
+### 🧩 Front-End Development  
+- HTML5, CSS3, SCSS, Bootstrap, Material UI  
+- JavaScript, TypeScript  
+- Redux, Redux Toolkit  
+- Vite, React, Next.js  
 
-🚀 Tools & Technologies
-Node.js
-Postman
-Pug
+### 🛠️ Back-End Development  
+- Node.js, Express.js, NestJS  
+- Pug, Postman  
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaatty&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedmaatty&theme=tokyonight" alt="GitHub Streak" /> </p>
-🔗 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/ahmedmaatty/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /> </a> </p>
+### 🗄️ Databases  
+- MongoDB, PostgreSQL  
+- Mongoose, Sequelize, TypeORM  
+
+### 👨‍💻 Programming Languages  
+- C++, C#, Python  
+- JavaScript, TypeScript, SQL  
+
+### 🚀 Tools & Technologies  
+- Node.js, Git, Postman, Pug  
+
+---
+
+## 📈 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedMaatty&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedMaatty&theme=radical)  
+
+---
+
+## 🔗 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/)  
+- [GitHub](https://github.com/AhmedMaatty)  
+- [Email](mailto:your-email@example.com)  
