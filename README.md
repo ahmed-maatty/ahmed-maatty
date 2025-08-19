@@ -65,11 +65,14 @@
 
 ## 📊 GitHub Stats  
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-maatty&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-maatty&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ahmed-maatty&theme=radical" height="160" />
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmed-maatty&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-maatty&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-maatty&layout=compact&theme=radical" height="160"/>
+</div>
 
 
 ---
