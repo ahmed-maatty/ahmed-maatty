@@ -1,104 +1,24 @@
-<div align="center">
+Hi there 👋
+Ahmed Maatty - أحمد معاطي
+JavaScript Developer | Passionate about building scalable web applications
+💼 Skills
+🧩 Front-End Development
+HTML5 CSS3 SCSS Bootstrap Material UI JavaScript TypeScript Redux Redux Toolkit Vite React Next.js
 
-# 👋 مرحبًا، أنا **Ahmed Maatty - أحمد معاطي**  
-**🚀 JavaScript Developer | Passionate about Building Scalable Web Applications**  
+🛠️ Back-End Development
+NestJS Express.js Node.js Pug Postman
 
----
+🗄️ Databases
+MongoDB PostgreSQL Mongoose Sequelize TypeORM
 
-## 💼 Skills  
+👨‍💻 Programming Languages
+C++ C# Python JavaScript TypeScript SQL
 
-### 🧩 Front-End Development  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="50"/><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="50"/><br>CSS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sass" width="50"/><br>SASS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>Bootstrap
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=materialui" width="50"/><br>Material UI
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="50"/><br>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="50"/><br>Next.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=redux" width="50"/><br>Redux
-    </td>
-  </tr>
-</table>
+🚀 Tools & Technologies
+Node.js Postman Pug
 
----
+📈 GitHub Stats
+GitHub Stats
+GitHub Streak
 
-### 🛠️ Back-End Development  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>NestJS
-    </td>
-  </tr>
-</table>
-
----
-
-### 🗄️ Databases  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>MongoDB
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="50"/><br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
----
-
-### 👨‍💻 Programming Languages  
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>C++
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs" width="50"/><br>C#
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" width="50"/><br>Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br>TypeScript
-    </td>
-  </tr>
-</table>
-
----
-
-</div>
+🔗 Connect with Me
