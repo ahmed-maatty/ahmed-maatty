@@ -1,30 +1,30 @@
-# Ahmed Maatty - أحمد معاطي  
-**JavaScript Developer | Passionate about Building Scalable Web Applications** 🚀  
+<div align="center">
+
+# 👋 مرحبًا، أنا **Ahmed Maatty - أحمد معاطي**  
+**🚀 JavaScript Developer | Passionate about Building Scalable Web Applications**  
 
 ---
 
 ## 💼 Skills  
 
 ### 🧩 Front-End Development  
-- HTML5, CSS3, SCSS, Bootstrap, Material UI  
-- JavaScript, TypeScript  
-- Redux, Redux Toolkit  
-- Vite, React, Next.js  
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,materialui,js,ts,react,nextjs,redux,vite" />
 
 ### 🛠️ Back-End Development  
-- Node.js, Express.js, NestJS  
-- Pug, Postman  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />  
+⚡ Pug • Postman  
 
 ### 🗄️ Databases  
-- MongoDB, PostgreSQL  
-- Mongoose, Sequelize, TypeORM  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />  
+⚡ Mongoose • Sequelize • TypeORM  
 
 ### 👨‍💻 Programming Languages  
-- C++, C#, Python  
-- JavaScript, TypeScript, SQL  
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,ts" />  
+⚡ SQL  
 
 ### 🚀 Tools & Technologies  
-- Node.js, Git, Postman, Pug  
+<img src="https://skillicons.dev/icons?i=nodejs,git,postman" />  
+⚡ Pug  
 
 ---
 
@@ -36,6 +36,16 @@
 ---
 
 ## 🔗 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/AhmedMaatty)  
-- [Email](mailto:your-email@example.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/AhmedMaatty" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
