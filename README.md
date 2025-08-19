@@ -63,13 +63,14 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmaatty&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedmaatty&theme=tokyonight" alt="GitHub Streak" />
-</p>
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed-maatty&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ahmed-maatty&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-maatty&layout=compact&theme=radical)
+
 
 ---
 
