@@ -5,6 +5,19 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-maatty&show_icons=true&theme=radical" height="160" />
+  <img src="https://streak-stats.demolab.com?user=ahmed-maatty&theme=radical" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-maatty&layout=compact&theme=radical" height="160"/>
+</div>
+
+---
+
 ## 💼 Skills
 
 ### 🧩 Front-End Development
@@ -60,19 +73,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
 ![Pug](https://img.shields.io/badge/-Pug-FFF?style=flat&logo=pug&logoColor=A86454)
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-maatty&show_icons=true&theme=radical" height="160" />
-  <img src="https://streak-stats.demolab.com?user=ahmed-maatty&theme=radical" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-maatty&layout=compact&theme=radical" height="160"/>
-</div>
 
 
 ---
