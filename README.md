@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Ahmed Maatty - أحمد معاطي</h1>
+<h1 align="center">Ahmed</h1>
 <h3 align="center">JavaScript Developer | Passionate about building scalable web applications</h3>
 
 ---
